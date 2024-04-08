@@ -4,6 +4,7 @@
     - Java ☕
     - C# 🔷
     - Kotlin 📱
+    - SQL 📄
     
 - 🎓 Estoy aprediendo por mi cuenta los siguientes **lenguajes de programación**:
     - Angular 🔺    
