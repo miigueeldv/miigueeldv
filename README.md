@@ -6,6 +6,6 @@
     - Kotlin 📱
     - SQL 📄
     
-- 🎓 Estoy aprediendo por mi cuenta los siguientes **lenguajes de programación**:
-    - React 🌌
-    - JavaScript 💻
+- 🎓 Me gustaría aprender:
+    - Spring Boot ☘️
+    - .NET 🟣
