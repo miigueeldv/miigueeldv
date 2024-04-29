@@ -8,4 +8,5 @@
     
 - 🎓 Me gustaría aprender:
     - Spring Boot ☘️
+    - Flutter 💠
     - .NET 🟣
