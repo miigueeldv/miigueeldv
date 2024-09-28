@@ -4,9 +4,9 @@
     - Java ☕
     - C# 🔷
     - Kotlin 📱
+    - Spring Boot ☘️
     - SQL 📄
     
 - 🎓 Me gustaría aprender:
-    - Spring Boot ☘️
     - Flutter 💠
     - .NET 🟣
