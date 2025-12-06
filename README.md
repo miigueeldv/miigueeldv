@@ -1,4 +1,4 @@
-### ¡Hola! 👋 Soy **Miguel 🚀** y estudié ASIR y DAM
+### ¡Hola! 👋 Soy **Miguel 🚀** y estudié ASIR y DAM. Actualmente estoy trabajando como desarrollador Back-End.
 
 - 😊 Estoy familiarizado con:
     - Java ☕
