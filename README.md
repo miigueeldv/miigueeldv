@@ -2,10 +2,12 @@
 
 - 😊 Estoy familiarizado con:
     - Java ☕
-    - C# 🔷
-    - Kotlin 📱
     - Spring Boot ☘️
     - SQL 📄
+    - HL7 💊
+    - Jenkins (CI/CD) 🧑🏻‍🍳
+    - C# 🔷
+    - Kotlin 📱
     
 - 🎓 Me gustaría aprender:
     - Flutter 💠
